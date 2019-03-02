@@ -1,1 +1,1 @@
-Sanderas.github.io/rsschool-2019Q1-cv/cv
+https://sanderas.github.io/rsschool-2019Q1-cv/cv
